@@ -100,22 +100,6 @@ button:hover {
 #main_content {
     padding: 20px;
 }
-#about_me {
-    background-color: #ffffff;
-    border-radius: 15px;
-    padding: 25px;
-    margin: 20px auto;
-    max-width: 800px;
-    box-shadow: 0 4px 15px rgba(248, 200, 220, 0.4);
-}
-#schedule {
-    background-color: #ffffff;
-    border-radius: 15px;
-    padding: 25px;
-    margin: 20px auto;
-    max-width: 800px;
-    box-shadow: 0 4px 15px rgba(248, 200, 220, 0.4);
-}
 #mood {
     background-color: #fff5f8;
     border-left: 5px solid #f4acb7;
@@ -124,6 +108,8 @@ button:hover {
     margin: 20px auto;
     max-width: 800px;
 }
+#about_me,
+#schedule,
 #form {
     background-color: #ffffff;
     border-radius: 15px;
